@@ -142,14 +142,14 @@
         },
         initElements: function () {
             var self = this, $el = self.$element;
-            self.$btnUpdate = $el.find('.kv-btn-update');
-            self.$btnDelete = $el.find('.kv-btn-delete');
-            self.$btnView = $el.find('.kv-btn-view');
-            self.$btnSave = $el.find('.kv-btn-save');
-            self.$attribs = $el.find('.kv-attribute');
-            self.$formAttribs = $el.find('.kv-form-attribute');
-            self.$buttons1 = $el.find('.kv-buttons-1');
-            self.$buttons2 = $el.find('.kv-buttons-2');
+            self.$btnUpdate = $el.parent().find('.kv-btn-update');
+            self.$btnDelete = $el.parent().find('.kv-btn-delete');
+            self.$btnView = $el.parent().find('.kv-btn-view');
+            self.$btnSave = $el.parent().find('.kv-btn-save');
+            self.$attribs = $el.parent().find('.kv-attribute');
+            self.$formAttribs = $el.parent().find('.kv-form-attribute');
+            self.$buttons1 = $el.parent().find('.kv-buttons-1');
+            self.$buttons2 = $el.parent().find('.kv-buttons-2');
         }
     };
 
