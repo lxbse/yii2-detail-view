@@ -14,12 +14,12 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "kartik-v/yii2-krajee-base": "*",
-        "kartik-v/yii2-helpers": "*"
+        "lxbse/yii2-krajee-base": "*",
+        "lxbse/yii2-helpers": "*"
     },
     "autoload": {
         "psr-4": {
-            "kartik\\detail\\": ""
+            "lxbse\\detail\\": ""
         }
     }
 }
