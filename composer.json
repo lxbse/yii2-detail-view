@@ -21,11 +21,5 @@
         "psr-4": {
             "lxbse\\detail\\": ""
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "https://github.com/lxbse/yii2-krajee-base"
-        }
-    ]
+    }
 }
