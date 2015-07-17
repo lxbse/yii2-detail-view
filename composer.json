@@ -14,8 +14,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "lxbse/yii2-krajee-base": "dev-master",
-        "lxbse/yii2-helpers": "dev-master"
+        "lxbse/yii2-krajee-base": "dev-fix",
+        "kartik-v/yii2-helpers": "dev-master"
     },
     "autoload": {
         "psr-4": {
