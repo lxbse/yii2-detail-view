@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-detail-view",
+    "name": "lxbse/yii2-detail-view",
     "description": "Various enhancements to the Yii 2 Detail View with ability to edit data and manage Bootstrap 3 styles.",
     "keywords": ["yii2", "extension", "widget", "detail", "grid", "form", "detail view"],
     "homepage": "https://github.com/kartik-v/yii2-detail-view",
