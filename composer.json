@@ -22,7 +22,6 @@
             "lxbse\\detail\\": ""
         }
     },
-    ,
     "repositories": [
         {
             "type": "vcs",
